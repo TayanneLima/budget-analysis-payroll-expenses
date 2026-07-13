@@ -1,6 +1,6 @@
 # Budget vs Forecast | Financial Planning & Analysis
 
-<img width="1853" height="842" alt="image" src="https://github.com/user-attachments/assets/565f6c19-0445-4e93-8c41-47e484c8e3fd" />
+<img width="1856" height="852" alt="image" src="https://github.com/user-attachments/assets/f5a1744d-0ef5-475d-9e5a-781ee607a398" />
 
 Projeto de FP&A desenvolvido em Python para simular o acompanhamento orçamentário das despesas com pessoal de uma empresa, comparando Budget, Realizado e Forecast através de um dashboard executivo.
 
