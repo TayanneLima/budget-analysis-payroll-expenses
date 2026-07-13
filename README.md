@@ -28,7 +28,7 @@ Este projeto simula esse processo por meio de uma base de dados sintética, dese
 
 ## O que o projeto entrega
 
-| Entregável | Descrição |
+| Entrega | Descrição |
 |---|---|
 | `notebook/Analise_DRE.ipynb` | Notebook narrativo: cada gráfico vem acompanhado da leitura de negócio, não só do código |
 | `outputs/dashboard.html` | Dashboard interativo (Plotly), um único arquivo HTML, sem servidor — abre em qualquer navegador |
