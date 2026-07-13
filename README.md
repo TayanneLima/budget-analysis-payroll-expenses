@@ -4,6 +4,8 @@
 
 Projeto de FP&A desenvolvido em Python para simular o acompanhamento orçamentário das despesas com pessoal de uma empresa, comparando Budget, Realizado e Forecast através de um dashboard executivo.
 
+file:///C:/Users/Tayanne/Downloads/dashboard%20(3).html
+
 ## Terminologia (importante para ler o relatório certo)
 
 Este projeto compara três coisas que costumam ser confundidas:
